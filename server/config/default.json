@@ -1,0 +1,6 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://oleksandr:sasha2000@cluster0.6mwg4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "secretKey": "mern-secket-key",
+  "filePath": "/home/user/projects/mern-main/server/files"
+}

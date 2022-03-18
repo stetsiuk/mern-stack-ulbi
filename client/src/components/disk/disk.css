@@ -1,0 +1,13 @@
+.disk {
+  margin-top: 10px;
+  padding: 0 10px;
+  width: 100%;
+}
+.disk__btns {
+  display: flex;
+  gap: 10px;
+}
+.disk__btns button:hover {
+  cursor: pointer;
+}
+/*# sourceMappingURL=disk.css.map */
